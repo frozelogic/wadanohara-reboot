@@ -31,7 +31,7 @@ Problemas de controle (como personagem andando sozinho em uma direção ou nenhu
 Tradução, edição e adaptação: frozelogic\
 Divulgação principal do conteúdo: endzoga
 
-Agradecimentos:
+Agradecimentos:\
 • À criadora Funamusea, pelo universo de Okegom e pelo jogo original;\
 • À endzoga, que dedicou o seu tempo para a divulgação do projeto no canal do YouTube;\
 • À vgperson, cuja padronização serviu de referência para a renomeação de arquivos de áudio;\
