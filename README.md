@@ -39,7 +39,7 @@ Agradecimentos:\
 
 Sobre o uso desta tradução: não é necessário solicitar permissão para utilizá-la em vídeos, gameplays ou transmissões. No entanto, exige-se a devida atribuição de créditos ao tradutor frozelogic, seja na descrição, nos comentários fixados ou no próprio conteúdo. Todo trabalho, independentemente de sua escala, merece o devido reconhecimento quando utilizado por terceiros.
 
-Para acessar todas as traduções disponíveis e seus respectivos links de download, utilize o site principal do tradutor: [frozelogic.carrd.co](frozelogic.carrd.co). O site centraliza e redireciona para os locais oficiais onde é possível obter as versões traduzidas por conta própria, garantindo segurança e atualização dos arquivos.
+Para acessar todas as traduções disponíveis e seus respectivos links de download, utilize o site principal do tradutor: [frozelogic.carrd.co](https://frozelogic.carrd.co). O site centraliza e redireciona para os locais oficiais onde é possível obter as versões traduzidas por conta própria, garantindo segurança e atualização dos arquivos.
 
 ## NOVIDADES DA VERSÃO REBOOT (SPOILERS)
 
